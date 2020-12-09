@@ -1,0 +1,45 @@
+$color: #eee;
+
+body {
+  background: $color;
+
+  a {
+    color: $color;
+  }
+}
+
+
+h1 {
+    margin: 0;
+    text-align: center;
+padding: 10px;
+
+
+
+
+
+
+
+
+    color: grey;
+
+    font-size: 40px;
+
+}
+
+
+
+h2 {
+  font-style: italic;
+}
+.p {
+  text-align: center;
+
+  color: green;
+}
+
+.content {
+  max-width: 1280px;
+  display: flex;
+  order: 1;
+}
